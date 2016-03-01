@@ -1,0 +1,19 @@
+{
+  "name": "ng-animate-animate.css",
+  "version": "0.1.1",
+  "description": "animate.css integration for ngAnimate in angular 1.2.X",
+  "main": "animate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yearofmoo/ngAnimate-animate.css.git"
+  },
+  "author": "yearofmoo <contact@yearofmoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yearofmoo/ngAnimate-animate.css/issues"
+  },
+  "homepage": "https://github.com/yearofmoo/ngAnimate-animate.css#readme"
+}
